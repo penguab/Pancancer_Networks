@@ -13,7 +13,7 @@ Draft date: Aug 17, 2021
 The co-expression networks for different cancer types were uniformly processed by the MEGENA pipeline. The gene expressions were generated from the normalized RNA-seq data from the TCGA database. 
 
 Nine files were shared for the co-expression network results.
-'''
+
 Pancancer_meta.tsv: The meta file including sample and patient information for all the samples analyzed.
 Pancancer_network.tsv: The co-expression networks for all cancers.
 Pancancer_bigtable.tsv: The module summary information for all co-expression networks.
@@ -23,7 +23,6 @@ Pancancer_DMC_FDR_0.05_beta_0.2.tsv: The differentially methylated CpGs (DMCs) b
 Pancancer_module_cytoband_enrichment.tsv: The network modules enriched with chromosomal cytobands.
 Pancancer_module_DEG_enrichment.tsv: The network modules enriched with DEGs.
 Pancancer_module_DMC_enrichment.tsv: The network modules enriched with DMCs.
-'''
 
 For detailed method information, please refer to the Senescence manuscript and the MEGENA publication (Song W.-M., Zhang B. (2015) Multiscale Embedded Gene Co-expression Network Analysis. PLoS Comput Biol 11(11): e1004574.)
 
