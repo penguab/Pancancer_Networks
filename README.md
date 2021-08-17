@@ -1,4 +1,4 @@
-# GTEx-Networks-For-Senescence
+# Pancancer Co-expression Networks
 
 This directory contains the MEGENA co-networks for 32 cancer types from TCGA database.
 
