@@ -34,7 +34,7 @@ Pancancer_module_DMC_enrichment.tsv: The network modules enriched with DMCs.
 
 ## Citation
 
-For detailed method information, please refer to the Senescence manuscript and the MEGENA publication (Song W.-M., Zhang B. (2015) Multiscale Embedded Gene Co-expression Network Analysis. PLoS Comput Biol 11(11): e1004574.)
+For detailed method information, please refer to the MEGENA publication (Song W.-M., Zhang B. (2015) Multiscale Embedded Gene Co-expression Network Analysis. PLoS Comput Biol 11(11): e1004574.)
 
 ## News
 
